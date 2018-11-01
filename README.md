@@ -20,4 +20,12 @@ The main functions of the workbook are:
     o LastPriceTraded
 
 &nbsp;&nbsp;&nbsp;&nbsp;• Graphs the data output on a per selection basis, showing last traded price over time.
-Please refer to the Historical Data Work.docx for full instructions relating to the above.
+
+&nbsp;&nbsp;&nbsp;&nbsp;• Please refer to the Historical Data Work.docx for full instructions relating to the above.
+
+---
+
+Please note:  The Historical Data Workbook isn’t compatible with 64 Bit versions of Excel.
+
+**Disclaimer** - The Historical Data Workbook is provided ‘as is’.  Betfair provides the Historical Data Workbook to demonstrate use of the Betfair Historical Data within Excel. It is intended only as a sample.  There are no guarantees as to the functionality of the application
+
